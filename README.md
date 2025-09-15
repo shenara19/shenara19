@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # <div align="center">🚀 Welcome to Shenara De Silva's Profile 🚀</div>
 
 <div align="center">
