@@ -2,15 +2,11 @@
 
 <div align="center">
   
-<!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=5000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Quality+Assurance+Engineer;Breaking+Bugs%2C+Building+Excellence;Automation+%7C+Manual+Testing+%7C+Performance%20)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Quality+Assurance+Engineer;Breaking+Bugs%2C+Building+Excellence;Automation+%7C+Manual+Testing+%7C+Performance)](https://git.io/typing-svg)
 
 <!-- Glowing Badge Effect -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=shenara19&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-[![GitHub followers](https://img.shields.io/github/followers/shenara19?style=for-the-badge&color=00d9ff&labelColor=1a1a1a)](https://github.com/Shenara-De-Silva)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Shenara-De-Silva&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Shenara-De-Silva?style=for-the-badge&color=00d9ff&labelColor=1a1a1a)](https://github.com/Shenara-De-Silva)
 [![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-YES-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:shenara.desilva@gmail.com)
 
 <!-- Animated Wave -->
