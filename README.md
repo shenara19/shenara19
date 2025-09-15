@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Quality+Assurance+Engineer;Breaking+Bugs%2C+Building+Excellence;Automation+%7C+Manual+Testing+%7C+Performance)](https://git.io/typing-svg)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shenara-De-Silva&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Shenara-De-Silva?style=for-the-badge&color=00d9ff&labelColor=1a1a1a)](https://github.com/Shenara-De-Silva)
+![Profile Views](https://komarev.com/ghpvc/?username=shenara19&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/shenara19?style=for-the-badge&color=00d9ff&labelColor=1a1a1a)](https://github.com/Shenara-De-Silva)
 [![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-YES-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:shenara.desilva@gmail.com)
 
 
@@ -81,16 +81,16 @@ motto: "Quality is not an act, it's a habit"
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Shenara-De-Silva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C3D1D9" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shenara19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C3D1D9" alt="GitHub Stats"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Shenara-De-Silva&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shenara19&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </td>
 </tr>
 </table>
 
 ### 🔥 **Most Used Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenara-De-Silva&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C3D1D9" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenara19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C3D1D9" alt="Top Languages"/>
 
 </div>
 
@@ -99,7 +99,7 @@ motto: "Quality is not an act, it's a habit"
 ## 🏆 **Achievements & Trophies**
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shenara-De-Silva&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shenara19&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -107,7 +107,7 @@ motto: "Quality is not an act, it's a habit"
 ## 📊 **Contribution Activity**
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shenara-De-Silva&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shenara19&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
