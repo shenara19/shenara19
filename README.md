@@ -24,10 +24,10 @@
 ### 👨‍💻 **Professional Identity**
 ```yaml
 name: "Shenara De Silva"
-role: "Quality Assurance Engineer"
+role: " Quality Assurance Intern (Manual Testing)"
 status: "Actively Seeking Opportunities"
 location: "Sri Lanka 🇱🇰"
-experience: "Passionate QA Professional"
+experience: " Quality Assurance Intern (Manual Testing)"
 motto: "Quality is not an act, it's a habit"
 ```
 
