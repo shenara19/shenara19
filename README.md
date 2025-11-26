@@ -7,7 +7,7 @@
 <!-- Glowing Badge Effect -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Shenara-De-Silva&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/Shenara-De-Silva?style=for-the-badge&color=00d9ff&labelColor=1a1a1a)](https://github.com/Shenara-De-Silva)
-[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-YES-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:shenara.desilva@gmail.com)
+[![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-YES-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:shenaradesilva619@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=16&fontAlignY=40&animation=twinkling"/>
 
@@ -85,6 +85,7 @@ motto: "Quality is not an act, it's a habit"
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenara19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C3D1D9" alt="Top Languages"/>
 </p>
+<!-- not working -->
 
 ## 🏆 **Achievements & Trophies**
 
