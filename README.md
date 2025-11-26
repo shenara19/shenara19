@@ -73,24 +73,18 @@ motto: "Quality is not an act, it's a habit"
 
 ---
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=shenara19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C3D1D9" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=shenara19&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
+## 📈 GitHub Analytics
 
-### 🔥 **Most Used Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenara19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C3D1D9" alt="Top Languages"/>
-</div><!-- images not showing in preview -->
+### GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shenara19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C3D1D9" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=shenara19&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%"/>
+</p>
 
-
----
+### 🔥 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenara19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C3D1D9" alt="Top Languages"/>
+</p>
 
 ## 🏆 **Achievements & Trophies**
 
