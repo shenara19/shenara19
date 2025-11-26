@@ -163,14 +163,15 @@ motto: "Quality is not an act, it's a habit"
 <div align="center">
 
 ### 📬 **Get In Touch**
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/shenara-de-silva](https://www.linkedin.com/in/shenara-de-silva-9430a426b/))
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:shenaradesilva619@gmail.com)
-[![GitHub]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Shenara-De-Silva](https://github.com/shenara19))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shenara-de-silva-9430a426b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shenaradesilva619@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shenara19)
 
 ### 💌 **Open For Opportunities**
+
 [![Hire Me](https://img.shields.io/badge/HIRE%20ME-Available%20for%20Full--Time%20Positions-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](mailto:shenaradesilva619@gmail.com)
 
----
 
 ### 💭 **"Testing is not about finding bugs; it's about delivering confidence in software quality."**
 
