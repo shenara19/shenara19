@@ -118,29 +118,27 @@ motto: "Quality is not an act, it's a habit"
 <td width="33%">
 
 ### 🔍 **Bug Hunter**
-- Comprehensive test case design
-- Edge case identification
-- Root cause analysis
-- Regression testing expertise
+- Strong test case design
+- Good at identifying edge cases
+- Able to analyze root causes
+- Skilled in regression testing
 
 </td>
 <td width="33%">
 
-### 🤖 **Automation Specialist**
-- Test automation frameworks
-- CI/CD pipeline integration
-- Cross-browser testing
-- API test automation
+### 🤖 **Automation Tester **
+- Hands-on experience with test automation frameworks
+- Comfortable with cross-browser testing
+- Basic to intermediate API test automation
 
 </td>
 <td width="33%">
 
-### 📋 **Process Optimizer**
-- Test strategy development
-- Quality metrics tracking
-- Team collaboration
-- Continuous improvement
-
+### 📋 **Process Improver**
+- Support in test strategy development
+- Ability to track and report quality metrics
+- Strong team communication
+- Focus on continuous improvement
 </td>
 </tr>
 </table>
@@ -173,13 +171,12 @@ motto: "Quality is not an act, it's a habit"
 <div align="center">
 
 ### 📬 **Get In Touch**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/shenara-de-silva)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:shenara.desilva@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Shenara-De-Silva)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&labelColor=FF5722)](https://shenara-desilva-portfolio.netlify.app/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/shenara-de-silva](https://www.linkedin.com/in/shenara-de-silva-9430a426b/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:shenaradesilva619@gmail.com)
+[![GitHub]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Shenara-De-Silva](https://github.com/shenara19))
 
 ### 💌 **Open For Opportunities**
-[![Hire Me](https://img.shields.io/badge/HIRE%20ME-Available%20for%20Full--Time%20Positions-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](mailto:shenara.desilva@gmail.com)
+[![Hire Me](https://img.shields.io/badge/HIRE%20ME-Available%20for%20Full--Time%20Positions-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](mailto:shenaradesilva619@gmail.com)
 
 ---
 
