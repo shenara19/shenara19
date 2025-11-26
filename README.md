@@ -73,8 +73,6 @@ motto: "Quality is not an act, it's a habit"
 
 ---
 
-## 📈 **GitHub Analytics**
-
 <div align="center">
 <table>
 <tr>
@@ -89,8 +87,7 @@ motto: "Quality is not an act, it's a habit"
 
 ### 🔥 **Most Used Languages**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenara19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C3D1D9" alt="Top Languages"/>
-
-</div>
+</div><!-- images not showing in preview -->
 
 
 ---
